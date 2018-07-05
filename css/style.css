@@ -4,7 +4,7 @@ img{
 .clickable{
   cursor: pointer;
   color: red;
-}
+}/*alows to change the color clickable sction of the paragraph*/
 .clickable:hover{
   text-decoration: underline;
-}
+}/*allows to create the section to be clickable*/
